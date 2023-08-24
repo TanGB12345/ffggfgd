@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(189, 231, 217);
+    font-variant: small-caps;
+}
+.header_div{
+    background-color: white;
+}
+.main_div{
+margin-top: 20px;
+}
+.footer_div{
+    background-color: black;
+    color:white;
+  position: fixed;
+  bottom:0;
+  width:100%;
+}
